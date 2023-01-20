@@ -1,0 +1,52 @@
+body {
+  background: linear-gradient(to left, rgb(151, 218, 205) 50%, rgb(213, 208, 151) 50%);
+  /*background: linear-gradient(rgb(194, 254, 233), rgb(74, 57, 60));*/
+  font-family: 'Sofia Sans', sans-serif;
+}
+#nombre {
+    align-content: center;
+    text-align: center;
+    
+}
+.imagen {
+        position: center ;
+        
+        background: rgba(0, 0, 0, .75);
+        border-radius: 20px;
+        display: block;
+        margin: auto;
+        
+}
+.boton-contactos{
+  position: center;
+}
+#imagentitulo{
+  position: center;
+  display: block;
+  margin: auto;
+}
+.card{
+    background-color: darkgrey;
+    color: beige;
+}
+
+#contacto{
+  text-align: center;
+  color: beige;
+}
+
+
+.presentacion H2 {
+ text-align: center;
+ text-decoration: underline;
+}  
+
+#texto-presentacion{
+ margin-bottom: 30px;
+  color: blue;
+  text-align: justify;
+}
+
+.informacion{
+  padding-top: 12px;
+}
